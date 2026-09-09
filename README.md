@@ -4,7 +4,7 @@
 
 Live at **[InviMafia](https://InviMafia)**.
 
-> A mirror, not an alarm. It never tells you "you're being radicalised" — it just shows you the shape of your feed, non-partisan by design (a hard-left and a hard-right bubble score identically), and lets you draw your own conclusion.
+> A mirror, not an alarm. It never tells you "you're being radicalised" — it just shows you the shape of your feed, non-partisan by design (a hard-left and a hard-right bubble score identically), and lets you draw your own conclusions.
 
 ## What it does
 
